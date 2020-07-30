@@ -1,4 +1,4 @@
-# Neural_Style_Transfer
+# Style Transfer
 Pytorch Implementation of Neural Style Transfer based on the paper, <a href = "https://arxiv.org/pdf/1508.06576.pdf">A Neural Algorithm of Artistic Style</a>.
 
 <img src = "./images/final.jpg"/>
