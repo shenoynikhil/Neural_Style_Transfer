@@ -10,10 +10,10 @@ Pytorch Implementation of Neural Style Transfer based on the paper, <a href = "h
 
 ### Usage
 ```
-python NeuralStyleTransfer.py --content-path [path to content image] --style-path [path to style image]
+python StyleTransfer.py --content-path [path to content image] --style-path [path to style image]
 ```
 
-Run `python NeuralStyleTransfer.py -h` for optional arguments
+Run `python StyleTransfer.py -h` for optional arguments
 
 ### Some Implementation Points (from the paper)
 * Use LBFGS as optimizer. Adam or SGD optimizer do not give sharp outputs.
